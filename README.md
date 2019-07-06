@@ -2,4 +2,4 @@
 NodeJs projects
 
 
-Folder for node NJ PRoJECTS i made.
+Folder for node NJ PRoJECTS I made.
